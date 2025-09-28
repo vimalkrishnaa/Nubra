@@ -10,6 +10,12 @@ A React component for converting manual trades into automated algorithmic strate
 - **Interactive Elements**: Drag-and-drop, real-time feedback
 - **Safety Controls**: Built-in risk management features
 
+## Demo Video
+
+Watch the demo of Nubra Strategy Converter here:  
+[Demo Video on Google Drive](https://drive.google.com/file/d/1xDH5fjV32oC84VTWHhQy-WqzyiCql5iq/view?usp=sharing)
+
+
 ## Quick Start
 
 ### Prerequisites
